@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+nav div {
+    width: auto;
+    margin-right: 20px;
+    padding-top: 10px;
+    font-size: 1rem;
+    float: left;
+}
+
+.logoNav {
+    width: 35px;
+    margin-right: 20px;
+    float: left;
+}
+
+.navRight {
+    float: right;
+}
